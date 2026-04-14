@@ -3,7 +3,6 @@
 <p align="center">
   <img src="graph.png"/>
 </p>
-*Note: Please replace the link above with the actual URL of your uploaded image or the relative path in your repository.*
 
 ## 📌 Problem Description
 
